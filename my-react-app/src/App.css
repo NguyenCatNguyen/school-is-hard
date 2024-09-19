@@ -1,0 +1,15 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  background-color:  #22303F;
+  color: #E7E8E7;
+}
+
+/* Global Component */
+.container{
+  max-width: 1800px;
+}
+
+
+/* NAV BAR */
